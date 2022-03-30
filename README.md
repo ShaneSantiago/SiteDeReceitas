@@ -10,7 +10,7 @@
 
 <!-- PROJECT SITE -->
 <h2 id="site">:earth_americas: Link do site </h2>
-<p>🔗 <a href="https://rare-mind.surge.sh/feed/" target="_blank"> Pokedex </a>  </p>
+<p>🔗 <a href="https://rare-mind.surge.sh/feed/" target="_blank"> Receitas </a>  </p>
 <!-- <a href="https://rare-mind.surge.sh/feed/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 <!-- PROJECT TECHNOLOGIES -->
